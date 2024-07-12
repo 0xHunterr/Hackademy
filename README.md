@@ -18,4 +18,4 @@ Here's what you can expect with Hackademy:
 
 # Something to know
 I made this lab for personal usage and educational purposes, you will not find the best practices for coding here or the clean code
-Hope u enjoy it, happy Hunting
+hope u enjoy it, happy hunting
